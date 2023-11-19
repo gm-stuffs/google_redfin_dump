@@ -1,0 +1,14 @@
+# redfin-user 14 UP1A.231105.001 10817346 release-keys
+- manufacturer: google
+- platform: lito
+- codename: redfin
+- flavor: redfin-user
+- release: 14
+- id: UP1A.231105.001
+- incremental: 10817346
+- tags: release-keys
+- fingerprint: google/redfin/redfin:14/UP1A.231105.001/10817346:user/release-keys
+- is_ab: true
+- brand: google
+- branch: redfin-user-14-UP1A.231105.001-10817346-release-keys
+- repo: google_redfin_dump
